@@ -24,3 +24,5 @@ Lin, CJ., Chen, YY., Pan, CF. et al. Dataset supporting blood pressure predictio
 * There is a product by B. Braun dealing with the challenge of hypotension during dialysis as well by using Fuzzy Logic
   * https://www.bbraun.com/en/products/b0/biologic-rr-comfort.html
   * Research paper regarding this can be found here: https://academic.oup.com/ndt/article/22/5/1420/1922750 
+* A well written information for dialysis patients (in German)
+  * http://www.dialyse-la.de/download/patienteninformation.pdf
