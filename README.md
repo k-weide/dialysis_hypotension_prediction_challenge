@@ -4,7 +4,7 @@
 * Do an **exploratory data analysis** with the corresponding dataset
   * Version A - dialysis_dataset.csv
   * Version B - dialysis_dataset_minutes_to_hypotension.csv
-* Do *some research* for the functional domain 
+* Do **some research** regarding the functional domain of hemodialysis
   * A starting point can be found in this README
 * **Try** to **create a machine learning model** 
   * Version A - Classify the column "class" in class "hypotension_is_coming" or class "no_hypotension_in_sight"
