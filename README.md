@@ -14,6 +14,12 @@ Lin, CJ., Chen, YY., Pan, CF. et al. Dataset supporting blood pressure predictio
   * https://github.com/k-weide/dialysis_hypotension_prediction_challenge/blob/main/create_dataset_with_databricks.ipynb 
 *  It includes some explanation how and why dataset was derived from the basis dataset the way it is done
 
+## Similar research papers 
+* "Intelligent system to predict intradialytic hypotension in chronic hemodialysis"
+  * https://www.sciencedirect.com/science/article/pii/S0929664618302584
+* "Predicting the Appearance of Hypotension During Hemodialysis Sessions Using Machine Learning Classifiers" 
+  * https://pubmed.ncbi.nlm.nih.gov/33671029/
+
 ## Some other interesting information
 * There is a product by B. Braun dealing with the challenge of hypotension during dialysis as well by using Fuzzy Logic
   * https://www.bbraun.com/en/products/b0/biologic-rr-comfort.html
