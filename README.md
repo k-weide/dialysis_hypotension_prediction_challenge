@@ -9,11 +9,12 @@
 * **Try** to **create a machine learning model** 
   * Version A - Classify the column "class" in class "hypotension_is_coming" or class "no_hypotension_in_sight"
   * Version B - Predict the "minutes_to_first_hypotension" as analogy to RUL (Remaining Useful Life) in Predictive Maintenance
-* Prepare an **maximum 15 minutes presentation**
+* Prepare a **maximum 15 minutes presentation**
   * Results of exploratory data analysis
-  * What did you learn about the domain of hemodialysis
+  * What did you learn about the domain of hemodialysis ?
     * expecially in context of hypotension and the dataset
-  * Which approach did you use for creating the machine learning model
+    * as a bonus: do you have ideas for other analysis using this kind of data or other dialysis data?
+  * Which approach did you use for creating the machine learning model ?
     * And why did you choose it ? 
   * Results of machine learning model and interpretation of results
     * **In general it is totaly fine if the model delivers bad performance as long as you can show and explain your approach** 
