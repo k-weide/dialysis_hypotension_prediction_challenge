@@ -45,6 +45,11 @@ The approach for Version B of this challenge is to use an analogy to the "NASA T
 
 At NASA Turbofan one approach is to predict the RUL (Remaining Useful Live) of a turbofan engine. As analogy for our dataset this would mean to predict the "minutes_to_first_hypotension" for a dialysis session.
 
+A dialysis session is defined by a combination of the following columns: 
+* patient_id
+* date_of_treatment
+* session_number 
+
 ### Details about the data
 For details about the data please look in "Creation of the dataset" in this README where you will find the corresponding notebook and additionally please read the paper mentioned in "The basis dataset" in this README and the other information available in this README are helpful as well. 
 
