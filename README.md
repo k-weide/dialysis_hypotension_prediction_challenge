@@ -21,7 +21,7 @@
   * Challenges faced during the analysis and model creation
 
 ### Version A - Classification
-In **dialysis_dataset.csv** you will find bloop pressure measurements that were taken during a hemodialysis session and additional information like parameters of the dialysis machine - like the ultrafiltration rate - and parameters of the patient information system (PIMS) like for example the age, gender, the weight before starting the treatment or the dry weight which is the target weight after the dialysis. 
+In **dialysis_dataset.csv** you will find blood pressure measurements that were taken during a hemodialysis session and additional information like parameters of the dialysis machine - like the ultrafiltration rate - and parameters of the patient information system (PIMS) like for example the age, gender, the weight before starting the treatment or the dry weight which is the target weight after the dialysis. 
 
 For details about the data please look in "Creation of the dataset" in this README where you will find the corresponding notebook and additionally please read the paper mentioned in "The basis dataset" in this README and the other information available in this README are helpful as well. 
 
@@ -34,7 +34,7 @@ In the column class of the dataset you will find two values:
 The challenge is to create a machine learning model that can classify if an entry is either in class "hypotension_is_coming" or class "no_hypotension_in_sight"
 
 ### Version B - Analogy to Predictive Maintenance
-In **dialysis_dataset_minutes_to_hypotension.csv** you will find bloop pressure measurements that were taken during a hemodialysis session and additional information like parameters of the dialysis machine - like the ultrafiltration rate - and parameters of the patient information system (PIMS) like for example the age, gender, the weight before starting the treatment or the dry weight which is the target weight after the dialysis. There are two differences to the Version A dataset:
+In **dialysis_dataset_minutes_to_hypotension.csv** you will find blood pressure measurements that were taken during a hemodialysis session and additional information like parameters of the dialysis machine - like the ultrafiltration rate - and parameters of the patient information system (PIMS) like for example the age, gender, the weight before starting the treatment or the dry weight which is the target weight after the dialysis. There are two differences to the Version A dataset:
 * You have three more columns: "hypotension_in_session", "minutes_to_first_hypotension", "minutes_to_dialysisend"
 * The dataset is filtered with "hypotension_in_session" = True which means that **in all sessions of the dataset a hypotension appeared** while in Version A there are sessions where never hypotension appeared
 
