@@ -3,7 +3,7 @@
 * Please choose **either** Version A or B 
 * Do an **exploratory data analysis** with the corresponding dataset
   * Version A - dialysis_dataset.csv
-    * Because of the size of 199 MB there is dialysis_dataset.zip as well with the same content, so if you have issues downloading please use and unpack the zip file
+    * Because of the size of 199 MB there is **dialysis_dataset.zip** as well with the same content, so if you have **issues downloading** please use and unpack the zip file
   * Version B - dialysis_dataset_minutes_to_hypotension.csv
 * Do **some research** regarding the functional domain of hemodialysis
   * A starting point can be found in this README
