@@ -8,7 +8,7 @@
 * Do **some research** regarding the functional domain of hemodialysis
   * A starting point can be found in this README
 * **Try** to **create a machine learning model** 
-  * The dataset if this public repository does not contain any sensitive data so it is explicitely permitted to use free online services like for example Google Colab https://colab.research.google.com 
+  * The dataset of this public repository does not contain any sensitive data so it is explicitely permitted to use free online services like for example Google Colab https://colab.research.google.com 
   * Version A - Classify the column "class" in class "hypotension_is_coming" or class "no_hypotension_in_sight"
   * Version B - Predict the "minutes_to_first_hypotension" as analogy to RUL (Remaining Useful Life) in Predictive Maintenance
 * Prepare a **maximum 15 minutes presentation**
